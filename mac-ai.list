@@ -10,3 +10,4 @@ DOMAIN-SUFFIX, stripe.com
 DOMAIN-SUFFIX, cloudflare.com
 DOMAIN-SUFFIX, intercom.io
 DOMAIN-SUFFIX, honeycomb.io
+IP-CIDR, 104.18.41.158/32
