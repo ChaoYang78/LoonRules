@@ -1,5 +1,6 @@
 #Mac-direct.list
-DOMAIN-SUFFIX, exmail.qq.com
+DOMAIN-SUFFIX, qq.com
+DOMAIN-SUFFIX, weixin.com
 DOMAIN-SUFFIX, taobao.com
 DOMAIN-SUFFIX, jd.com
 DOMAIN-SUFFIX, alipay.com
